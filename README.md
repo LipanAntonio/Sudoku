@@ -1,3 +1,3 @@
 # Sudoku
 
-  Sudoku solver scris in Java folosind backtrack.
+  A Sudoku solver written in Java using backtracking.
